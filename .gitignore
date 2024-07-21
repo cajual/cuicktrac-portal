@@ -1,0 +1,45 @@
+# Hugo
+/public/
+/resources/_gen/
+/assets/js/config.js
+/hugo_stats.json
+
+# Generated files
+/public/
+/resources/
+/assets/js/config.js
+/hugo_stats.json
+
+# Configuration files
+/.DS_Store
+/config.toml
+/config.yaml
+/config/_default/config.toml
+
+# Local development files
+/.hugo_build.lock
+/hugo_stats.json
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies
+node_modules/
+/npm-debug.log
+yarn-error.log
+
+# IDEs and editors
+.idea/
+/.vscode/
+/*.sublime-project
+/*.sublime-workspace
+
+# Temporary files
+*.swp
+*~
